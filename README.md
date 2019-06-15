@@ -1,5 +1,6 @@
 # smai-coursework
 This repo contains assignments and slides related to the course "Statistical Methods in AI" at IIIT Hyderabad.
+It includes implementation of known machine learning algorithms.
 
 ## Assignment details:
 | Assignment | Topics |
