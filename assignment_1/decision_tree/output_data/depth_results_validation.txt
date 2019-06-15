@@ -1,0 +1,220 @@
+
+Depth: 1
+Total number of leaf nodes: 2 
+Total number of nodes: 14 
+True negative : 1454
+True positive : 382
+False Positive : 249
+False negative : 163
+Total right predicted:  1836
+Total wrong predicted: 412
+
+
+Depth: 2
+Total number of leaf nodes: 4 
+Total number of nodes: 21 
+True negative : 1703
+True positive : 126
+False Positive : 0
+False negative : 419
+Total right predicted:  1829
+Total wrong predicted: 419
+
+
+Depth: 3
+Total number of leaf nodes: 7 
+Total number of nodes: 34 
+True negative : 1606
+True positive : 501
+False Positive : 97
+False negative : 44
+Total right predicted:  2107
+Total wrong predicted: 141
+
+
+Depth: 4
+Total number of leaf nodes: 29 
+Total number of nodes: 75 
+True negative : 1661
+True positive : 503
+False Positive : 42
+False negative : 42
+Total right predicted:  2164
+Total wrong predicted: 84
+
+
+Depth: 5
+Total number of leaf nodes: 49 
+Total number of nodes: 155 
+True negative : 1671
+True positive : 507
+False Positive : 32
+False negative : 38
+Total right predicted:  2178
+Total wrong predicted: 70
+
+
+Depth: 6
+Total number of leaf nodes: 89 
+Total number of nodes: 297 
+True negative : 1679
+True positive : 508
+False Positive : 24
+False negative : 37
+Total right predicted:  2187
+Total wrong predicted: 61
+
+
+Depth: 7
+Total number of leaf nodes: 130 
+Total number of nodes: 513 
+True negative : 1684
+True positive : 508
+False Positive : 19
+False negative : 37
+Total right predicted:  2192
+Total wrong predicted: 56
+
+
+Depth: 8
+Total number of leaf nodes: 177 
+Total number of nodes: 811 
+True negative : 1687
+True positive : 511
+False Positive : 16
+False negative : 34
+Total right predicted:  2198
+Total wrong predicted: 50
+
+
+Depth: 9
+Total number of leaf nodes: 217 
+Total number of nodes: 1182 
+True negative : 1684
+True positive : 515
+False Positive : 19
+False negative : 30
+Total right predicted:  2199
+Total wrong predicted: 49
+
+
+Depth: 10
+Total number of leaf nodes: 262 
+Total number of nodes: 1626 
+True negative : 1682
+True positive : 516
+False Positive : 21
+False negative : 29
+Total right predicted:  2198
+Total wrong predicted: 50
+
+
+Depth: 11
+Total number of leaf nodes: 290 
+Total number of nodes: 2118 
+True negative : 1678
+True positive : 519
+False Positive : 25
+False negative : 26
+Total right predicted:  2197
+Total wrong predicted: 51
+
+
+Depth: 12
+Total number of leaf nodes: 308 
+Total number of nodes: 2645 
+True negative : 1678
+True positive : 517
+False Positive : 25
+False negative : 28
+Total right predicted:  2195
+Total wrong predicted: 53
+
+
+Depth: 13
+Total number of leaf nodes: 318 
+Total number of nodes: 3192 
+True negative : 1674
+True positive : 520
+False Positive : 29
+False negative : 25
+Total right predicted:  2194
+Total wrong predicted: 54
+
+
+Depth: 14
+Total number of leaf nodes: 329 
+Total number of nodes: 3759 
+True negative : 1673
+True positive : 521
+False Positive : 30
+False negative : 24
+Total right predicted:  2194
+Total wrong predicted: 54
+
+
+Depth: 15
+Total number of leaf nodes: 334 
+Total number of nodes: 4336 
+True negative : 1673
+True positive : 521
+False Positive : 30
+False negative : 24
+Total right predicted:  2194
+Total wrong predicted: 54
+
+
+Depth: 16
+Total number of leaf nodes: 338 
+Total number of nodes: 4921 
+True negative : 1673
+True positive : 522
+False Positive : 30
+False negative : 23
+Total right predicted:  2195
+Total wrong predicted: 53
+
+
+Depth: 17
+Total number of leaf nodes: 341 
+Total number of nodes: 5512 
+True negative : 1673
+True positive : 522
+False Positive : 30
+False negative : 23
+Total right predicted:  2195
+Total wrong predicted: 53
+
+
+Depth: 18
+Total number of leaf nodes: 344 
+Total number of nodes: 6108 
+True negative : 1673
+True positive : 522
+False Positive : 30
+False negative : 23
+Total right predicted:  2195
+Total wrong predicted: 53
+
+
+Depth: 19
+Total number of leaf nodes: 345 
+Total number of nodes: 6706 
+True negative : 1673
+True positive : 522
+False Positive : 30
+False negative : 23
+Total right predicted:  2195
+Total wrong predicted: 53
+
+
+Depth: 20
+Total number of leaf nodes: 346 
+Total number of nodes: 7306 
+True negative : 1673
+True positive : 522
+False Positive : 30
+False negative : 23
+Total right predicted:  2195
+Total wrong predicted: 53
+
